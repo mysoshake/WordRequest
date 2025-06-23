@@ -16,6 +16,7 @@ git clone https://github.com/mysoshake/WordRequest.git
 ```
 
 ## 2.Pythonとパッケージ設定
+Pythonのインストールをしたうえで、
 自身の環境にnumpyとgensimとcustomtkinterを入れてください。
 ``` [requirements]
 pip install customtkinter
