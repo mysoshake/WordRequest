@@ -38,5 +38,4 @@ pip install numpy
 - jawiki.entity_vectors.300d.txt.bz2をダウンロード・展開してjawiki.entity_vectors.300d.txtをmodelフォルダに配置
 
 ## 4. 実行
-コマンドラインなどから gui_main.py を実行する。
-ゲームウィンドウが開くはずです。
+コマンドラインなどから gui_main.py を実行すればゲームウィンドウが開くはずです。
