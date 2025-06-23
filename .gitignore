@@ -8,6 +8,8 @@ __pycache__/
 # 設定ファイル（ユーザーごとに異なるため）
 settings.json
 
+old_gui_main.py
+
 # モデル入れ
 model/*
 !model/.gitkeep
